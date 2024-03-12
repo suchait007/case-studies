@@ -4,6 +4,7 @@
 - Business use case understanding
 - Azure Functions fundamentals
 - Solution Architecture walk through
+- Project Implementation specifications
 - Business applications code walk through
 - Understanding azure devops pipeline for Azure functions
 - Deploying Azure function service
