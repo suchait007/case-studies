@@ -21,6 +21,7 @@
   - Hosting
     - https://learn.microsoft.com/en-us/azure/azure-functions/functions-scale
 - Solution Architecture walk through
+- Project Implementation specifications
 - Business applications code walk through
 - Understanding azure devops pipeline(CI-CD) for Azure functions
 - Deploying Azure function service
