@@ -1,47 +1,28 @@
-<b><h3>Microservices in depth with Azure kubernetes</h3></b>
-
-
-- What is Microservices, Why and When we should be using it.
-- Understanding Microservice architecture using business Case Study.
-- Understanding of Microservices patterns in depth with architecture.
-  - Decomposition
-    - Strangler
-    - Anti Corruption Layer
-    - Event driven
-  - Integration
-    - API Gateway
-  - Database
-    - Shared database per service
-    - CQRS
-    - Materialized View
-  - Reliability
-    - Circuit breaker
-    - Bulk head
-    - Rating limiting
-    - Health Check API
-  - Security 
-    - Access token
-- Deploying virtual network and connecting using VPN gateway point to site connection.
-- Deploying and Discussion on private azure kubernetes cluster.
-- Deploying and Understanding self hosted agent pool using azure virtual machine.
-- Deploying and Understanding CI/CD using Azure DevOps using self hosted agent and github.
-- Deploying ingress load balancer in aks for api routing to microservices.
-- Implementing and Deploying jwt token generation for login and signup using nodejs service(passport js) using helm.
-- Understanding data synchronisation using change data capture (CDC)
-- Deploying and understanding kafka cluster using confluent data platform.
-  - Confluent CRDS
-  - kafka 
-  - kafka connect
-  - Schema registry
-  - Control center/akhq
-  - ksqldb
-  - kafka rest
-- Implementing event driven architecture using kafka connect and postgres flexible server.
-  - kafka source connector
-- Implementing and deploying java microservices to consume events from kafka topic.
-  - user service
-  - membership service
-  - product create
-- Implementing service in python flask to read products from database.
-- Understanding different ways of error handling in microservices architecture.
-- Cost Estimation and Microservices summary and conclusion.
+Implementing Serverless with Azure functions
+Basic overview of serverless
+Zero Infrastructure management
+Scalability
+https://learn.microsoft.com/en-us/azure/azure-functions/functions-scale
+Faster time to market ready your product/solution
+Serverless Compute
+Functions
+https://learn.microsoft.com/en-us/azure/azure-functions/functions-scale
+App Service
+Containerized Microservices
+K8s
+https://azure.microsoft.com/en-in/resources/cloud-computing-dictionary/what-is-serverless-computing
+Business use case understanding
+Azure Functions fundamentals
+Event driven
+Pay per execution model
+Triggers and Bindings
+https://learn.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings?tabs=isolated-process%2Cpython-v2&pivots=programming-language-java
+Hosting
+https://learn.microsoft.com/en-us/azure/azure-functions/functions-scale
+Solution Architecture walk through
+Business applications code walk through
+Understanding azure devops pipeline(CI-CD) for Azure functions
+Deploying Azure function service
+Understanding end to end picture
+Understanding solution cost estimation
+Final thoughts
