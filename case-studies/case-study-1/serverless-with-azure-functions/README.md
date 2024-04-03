@@ -1,28 +1,29 @@
-Implementing Serverless with Azure functions
-Basic overview of serverless
-Zero Infrastructure management
-Scalability
-https://learn.microsoft.com/en-us/azure/azure-functions/functions-scale
-Faster time to market ready your product/solution
-Serverless Compute
-Functions
-https://learn.microsoft.com/en-us/azure/azure-functions/functions-scale
-App Service
-Containerized Microservices
-K8s
-https://azure.microsoft.com/en-in/resources/cloud-computing-dictionary/what-is-serverless-computing
-Business use case understanding
-Azure Functions fundamentals
-Event driven
-Pay per execution model
-Triggers and Bindings
-https://learn.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings?tabs=isolated-process%2Cpython-v2&pivots=programming-language-java
-Hosting
-https://learn.microsoft.com/en-us/azure/azure-functions/functions-scale
-Solution Architecture walk through
-Business applications code walk through
-Understanding azure devops pipeline(CI-CD) for Azure functions
-Deploying Azure function service
-Understanding end to end picture
-Understanding solution cost estimation
-Final thoughts
+<b><h3>Implementing Serverless with Azure functions</h3></b>
+
+- Basic overview of serverless
+  - Zero Infrastructure management
+  - Scalability
+    - https://learn.microsoft.com/en-us/azure/azure-functions/functions-scale
+  - Faster time to market ready your product/solution
+  - Serverless Compute
+    - Functions
+      - https://learn.microsoft.com/en-us/azure/azure-functions/functions-scale
+    - App Service
+    - Containerized Microservices
+    - K8s
+    - https://azure.microsoft.com/en-in/resources/cloud-computing-dictionary/what-is-serverless-computing
+- Business use case understanding
+- Azure Functions fundamentals
+  - Event driven
+  - Pay per execution model
+  - Triggers and Bindings
+    - https://learn.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings?tabs=isolated-process%2Cpython-v2&pivots=programming-language-java
+  - Hosting
+    - https://learn.microsoft.com/en-us/azure/azure-functions/functions-scale
+- Solution Architecture walk through
+- Business applications code walk through
+- Understanding azure devops pipeline(CI-CD) for Azure functions
+- Deploying Azure function service
+- Understanding end to end picture
+- Understanding solution cost estimation
+- Final thoughts
