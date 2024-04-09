@@ -7,12 +7,12 @@
   - Decomposition
     - Strangler
     - Anti Corruption Layer
-    - Event driven
   - Integration
     - API Gateway
   - Database
     - Shared database per service
     - CQRS
+    - Event driven
     - Materialized View
   - Reliability
     - Circuit breaker
