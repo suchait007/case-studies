@@ -10,6 +10,7 @@
   - Integration
     - API Gateway
   - Database
+    - Database per service  
     - Shared database per service
     - CQRS
     - Event driven
